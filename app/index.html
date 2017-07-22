@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CCP Electron Boilerplate</title>
+	<link rel="stylesheet" href="./resources/style.css">
+	<style>
+		:root{
+			--mainbg: rgba(225,225,225,1);
+			--dark: rgba(0,0,0,0.8);
+			background: var(--mainbg);
+		}
+		#app { margin:0; padding:10px; }
+		#swatchwrapper { display: flex; flex-flow: row wrap; justify-content: space-around; }
+		.swatch { display:inline-block;width:20px;height:20px;background: var(--dark); }
+	</style>
+</head>
+<body>
+
+	<div id="app">
+		<div id="swatchwrapper">
+			<div class="swatch" v-for="swatch in swatches"
+				:style="'background:'+swatch.colorvalue"
+				:data-colorvalue="swatch.colorvalue"
+				:data-colorname="swatch.colorname"></div>
+		</div>
+	</div>
+
+	
+	<script>
+
+		require('./app.js');
+		// APP JS BELOW THIS LINE DURING DEV
+
+
+		///////////////////////
+		// MY FAVORITE STUFF //
+		///////////////////////
+		///
+		require('datejs')
+		const moment = require('moment')
+		const string = require('string')
+		const Vue = require('./node_modules/vue/dist/vue.min.js')
+		const {ipcRenderer} = require('electron')
+
+		let vueapp = new Vue({
+			el: '#app',
+			data: {
+				swatches: [
+					{colorname:'panda', colorvalue: '#F44336'},
+					{colorname:'red', colorvalue: '#F44336'},
+					{colorname:'red', colorvalue: '#F44336'},
+					{colorname:'red', colorvalue: '#F44336'},
+					{colorname:'red', colorvalue: '#F44336'}
+				]
+			},
+			mounted: function () {
+				this.$nextTick(function () {
+					ipcRenderer.send('show-devtools')
+					let n = new Notification('Boilerplate Tray app loaded', { body: 'Good job CCP. Click to dismiss.' })
+					n.onclick = () => { ipcRenderer.send('show-window') }
+				})
+			}
+		});
+
+
+	</script>
+
+</body>
+</html>

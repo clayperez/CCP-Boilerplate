@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "postinstall": "install-app-deps",
+    "dev": "NODE_ENV='development' npm run nomangle && electron ./app --logging-enabled",
+    "start": "npm run mangle && electron ./app --enable-logging",
+    "mangle": "uglifyjs ./app.js --compress --mangle --output ./app/app.js",
+    "nomangle": "uglifyjs ./app.js --beautify --output ./app/app.js",
+    "build": "npm run mangle && build",
+    "buildw": "npm run mangle && build -w",
+    "dist": "build -mwl --x64 --ia32"
+  },
+  "build": {
+    "appId": "com.clayperez.appname",
+    "mac": {
+      "category": "public.app-category.developer-tools",
+      "icon": "build/App Icon.icns"
+    },
+    "directories": {
+      "output": "./dist"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "electron-builder": "^19.16.2",
+    "uglify-es": "^3.0.25"
+  }
+}

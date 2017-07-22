@@ -1,0 +1,1144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ata",
+				"attachProxmarkEvents"
+			],
+			[
+				"advance",
+				"advancedmode"
+			],
+			[
+				"par",
+				"parsedHexResponse"
+			],
+			[
+				"readb",
+				"readblock"
+			],
+			[
+				"pro",
+				"proxmark3"
+			],
+			[
+				"commandce",
+				"commandcenter"
+			],
+			[
+				"nati",
+				"nativeAppIcon"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"autopolive",
+				"autopostliveswitch"
+			],
+			[
+				"autop",
+				"autoPostLiveSwitch"
+			],
+			[
+				"autopost",
+				"autopostliveswitch"
+			],
+			[
+				"autoPo",
+				"autoPostLiveInterval"
+			],
+			[
+				"context",
+				"contextmenu"
+			],
+			[
+				"reveaA",
+				"revealAdframeTimeout"
+			],
+			[
+				"revealAdF",
+				"revealAdframeTimeout"
+			],
+			[
+				"adframe",
+				"adframe"
+			],
+			[
+				"simpe",
+				"simplifiedFeed"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"con",
+				"confirmation_html"
+			],
+			[
+				"hide",
+				"hideableCCrows"
+			],
+			[
+				"final",
+				"finalNotesData"
+			],
+			[
+				"sort",
+				"sortby"
+			],
+			[
+				"sor",
+				"sortby"
+			],
+			[
+				"wsSen",
+				"wsSendSimple"
+			],
+			[
+				"curren",
+				"currentPage"
+			],
+			[
+				"stra",
+				"stravaid"
+			],
+			[
+				"secure",
+				"secureAthlete"
+			],
+			[
+				"straven",
+				"straventador_token"
+			],
+			[
+				"ge",
+				"getSecureAthlete"
+			],
+			[
+				"sec",
+				"sec-websocket-key"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"cancel",
+				"cancelButtonText"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"ws",
+				"wsSendJson"
+			],
+			[
+				"STR",
+				"STRAVA_SECRET"
+			],
+			[
+				"read",
+				"readyState"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"sel",
+				"selectors"
+			],
+			[
+				"merchdis",
+				"merchandise"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"quer",
+				"queries"
+			],
+			[
+				"rhess",
+				"rhesusApp"
+			],
+			[
+				"sand",
+				"sandboxRouter"
+			],
+			[
+				"verion",
+				"versioncheck"
+			],
+			[
+				"readabl",
+				"readableTime"
+			],
+			[
+				"athl",
+				"athleteid"
+			],
+			[
+				"ath",
+				"athleteid"
+			],
+			[
+				"athleteid",
+				"athleteid"
+			],
+			[
+				"atheid",
+				"athleteid"
+			],
+			[
+				"athle",
+				"athlete"
+			],
+			[
+				"athleid",
+				"athleteid"
+			],
+			[
+				"durr",
+				"durrationJSON"
+			],
+			[
+				"bib",
+				"bibNumber"
+			],
+			[
+				"inde",
+				"indexedBibValue"
+			],
+			[
+				"getCl",
+				"getUserWsClients"
+			],
+			[
+				"client",
+				"clientConnectionDetail"
+			],
+			[
+				"change",
+				"changeusername"
+			],
+			[
+				"broadca",
+				"broadcastoff"
+			],
+			[
+				"laptimeu",
+				"laptimeutc"
+			],
+			[
+				"ob",
+				"objKey"
+			],
+			[
+				"rhesusCae",
+				"rhesusCategories"
+			],
+			[
+				"wsSe",
+				"wsSendSimple"
+			],
+			[
+				"rhesus",
+				"rhesusUpdatePW"
+			],
+			[
+				"bibstar",
+				"bibStartTimeAdvance"
+			],
+			[
+				"faq",
+				"faqinfo"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"favi",
+				"favicon-196x196"
+			],
+			[
+				"searc",
+				"searchfield"
+			],
+			[
+				"ela",
+				"elapsedtime"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"current",
+				"current_period_end"
+			],
+			[
+				"existst",
+				"existingCustomer"
+			],
+			[
+				"exis",
+				"existingCustomer"
+			],
+			[
+				"sub",
+				"subscriptionid"
+			],
+			[
+				"strip",
+				"stripeCustomerId"
+			],
+			[
+				"storm",
+				"stormpath_client"
+			],
+			[
+				"grace",
+				"gracePeriodTime"
+			],
+			[
+				"late",
+				"latestVersion"
+			],
+			[
+				"distribu",
+				"distributionPath"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"unique",
+				"uniqueID"
+			],
+			[
+				"kitty",
+				"kittySchema"
+			],
+			[
+				"serv",
+				"serverHostName"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"userA",
+				"userappKEY"
+			],
+			[
+				"twi",
+				"twilioSECRET"
+			],
+			[
+				"mailch",
+				"mailchimpLIST_ID"
+			],
+			[
+				"mail",
+				"mailchimpAPI_ID"
+			],
+			[
+				"NMAP",
+				"NMAPBIN"
+			],
+			[
+				"Sho",
+				"shopifyData"
+			],
+			[
+				"redac",
+				"redactor-script"
+			],
+			[
+				"reque",
+				"requestdata"
+			],
+			[
+				"cpt_",
+				"cpt_shopify_apiPassword"
+			],
+			[
+				"cpt_shopify_a",
+				"cpt_shopify_apiKey"
+			],
+			[
+				"cpt_fb",
+				"cpt_fbshareurl"
+			],
+			[
+				"base",
+				"basePrice"
+			],
+			[
+				"outer",
+				"outerHTML"
+			],
+			[
+				"out",
+				"outerHTML"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"no",
+				"no-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 846,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"tatus",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"push ta",
+				"Git: Push Tags"
+			],
+			[
+				"add ",
+				"Git: Add Tag"
+			],
+			[
+				"add ta",
+				"Git: Add Tag"
+			],
+			[
+				"pusht a",
+				"Git: Push Tags"
+			],
+			[
+				"cdnjs",
+				"Cdnjs: Import Script"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"dif",
+				"Git: Diff"
+			],
+			[
+				"add t",
+				"Git: Add Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Repository"
+			],
+			[
+				"package con",
+				"Package Control: Add Repository"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git tag",
+				"Git: Tag"
+			],
+			[
+				"add",
+				"Git: Add Tag"
+			],
+			[
+				"tags",
+				"Git: Push Tags"
+			],
+			[
+				"syntaxjscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stat",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"tag",
+				"Git: Push Tags"
+			],
+			[
+				"syntajavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"puta",
+				"Git: Push Tags"
+			],
+			[
+				"latest",
+				"Git: Graph Log Latest"
+			],
+			[
+				"lates",
+				"Git: Graph Log Latest"
+			],
+			[
+				"la",
+				"Git: Graph Log Last 5"
+			],
+			[
+				"logs",
+				"Git: Graph Log Latest"
+			],
+			[
+				"last",
+				"Git: Graph Log Last 5"
+			],
+			[
+				"log",
+				"Git: Graph Log"
+			],
+			[
+				"git log",
+				"Git: Graph Log"
+			],
+			[
+				"specialc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"gitgu",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"git l",
+				"Git: Log"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sub stat",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"add li",
+				"SublimeGit: Add License"
+			],
+			[
+				"add lice",
+				"SublimeGit: Add License"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"wp",
+				"Snippet: Wordpress header.php"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 261.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Carlos/Google Drive/APPS/*ELECTRON/ccp electron boilerplate"
+	],
+	"file_history":
+	[
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app/index.html",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app/resources/style.css",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app/main.js",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/rfidLog.dat",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app/app.js",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app/package.json",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/package.json",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/app.js",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/readme.md",
+		"/Users/Carlos/Google Drive/APPS/reprocessor/.gitignore",
+		"/Users/Carlos/rhesusData/plugins/live/style.css",
+		"/Users/Carlos/rhesusData/plugins/live/index.html",
+		"/Users/Carlos/rhesusData/plugins/live/script.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/formstack2017.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/appcore.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/utility.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/plugincore.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/index.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/css/default.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/css/global.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/config.js",
+		"/Users/Carlos/rhesusData/plugins/cykelscramble/index.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/README.md",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/client-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/ws-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/style.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/lighterfluid/index.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/sandbox/sandbox-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/script.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/appstatic.js",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/Simple Print Function/SublimePrint.sublime-settings",
+		"/var/folders/js/0f81rtcd7mv04m1_bgy3fzfw0000gn/T/tmpugqga5.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/digitalclock.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/analogclock.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/digitalclock.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/index.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/app.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/googlesheets/gsheet.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/googlesheets/bikemonkey-gsheet-creds.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/API-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/node_modules/express-stormpath/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/payment-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/sftp-config.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/mothership-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/strava-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/README.md",
+		"/Users/Carlos/Downloads/2017 Stage Machine - S2.JSON",
+		"/Users/Carlos/Downloads/2017 Stage Machine - S1.JSON",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/css/styleLight.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/p5/p5monitor.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/p5/p5.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/p5/p5.dom_rhesus.js",
+		"/Users/Carlos/Downloads/IMPINJ USB Drive Data Muncher - STARTS.JSON",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/rhesusNetworkInterfaces.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/rhesusServer.js",
+		"/Applications/Adobe Illustrator CC 2017/CEP/extensions/com.adobe.DesignLibraries.angular.touch/locale/it_IT/messages.properties",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/css/style.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/customerData/rhesus_race_database.db",
+		"/Users/Carlos/Google Drive/APPS/p5/slitscanner.html",
+		"/Users/Carlos/Google Drive/APPS/p5/slit.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/jquery/jquery.animate.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/resources/css/animate.css",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/2.0/README.md",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/2.0/rhesus/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/app.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/main.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/gsheet.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/googlesheets/bikemonkeygsheetcreds.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/classy/classycore.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/websockets.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/montecito black.png",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/globalsetup.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/formstackInclude.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/fldigi.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/app-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/ws-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/strava-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/.gitignore",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/Carlos/rhesusData/plugins/twilio/twilio.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/mapbox.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/polyline.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/js/polyline.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/js/mapbox.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/watch.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/js/watch.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/5.3.1.md",
+		"/Users/Carlos/rhesusData/plugins/twilio/twilio.csv",
+		"/Users/Carlos/rhesusData/plugins/twilio/plugin.json",
+		"/Users/Carlos/rhesusData/plugins/twilio/twilio.json",
+		"/Users/Carlos/rhesusData/plugins/cykelscramble/plugin.json",
+		"/Users/Carlos/rhesusData/plugins/live/plugin.json",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/2.0/appCore.js",
+		"/Users/Carlos/rhesusData/plugins/.gitignore",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/5.2.8.md",
+		"/Users/Carlos/Google Drive/APPS/proxmark3/proxmark3/HACKING.txt",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/index.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/customerData/lgfStravaTokins.db",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/customerData/lgfStravaLogin.db",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/analogclock.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client/clubcalendar/google-calendar-events.min.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/stravaAuth.ejs",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/sandbox-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/client-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/untitled.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/js/straventador.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/strava/LGFLogin.js",
+		"/Users/Carlos/Google Drive/APPS/proxmark3/proxmark3/client/Makefile",
+		"/Users/Carlos/Google Drive/APPS/proxmark3/proxmark3/Makefile",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/girobello2017.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/formstack2017.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/thankyoupage.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/monkeyconsole.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/cdn/formstack/conditional_jQuery.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/views/index.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/www/views/stravaAuth.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/straventador.com/customerData/accounts.db"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/node_modules",
+			"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app",
+			"/Users/Carlos/Google Drive/APPS/rhesus.io/electron.rhesus.io/app/node_modules/protip"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"proxmarkSpawn",
+			"Proxmark",
+			"proxmarkDevice",
+			"proxmarkFound",
+			"proxmarkDevice",
+			"{proxmarkDevice",
+			"proxmarkDevice",
+			"openProxmark",
+			"proxmarkInquire",
+			"proxmarkConnect",
+			"openDevice",
+			"scanForProxmarkDevice",
+			"scanForProxmark",
+			"Using UID",
+			"BLOCK",
+			"parsedLineData",
+			"openProxmark",
+			".write(",
+			"stepProgress",
+			"animate",
+			"proxmarkCommand",
+			"proxmark3.",
+			"deviceList",
+			"proxmarkFound",
+			"disconnected",
+			"error",
+			"error ",
+			"advanced",
+			"['advanced '+hide]",
+			"advanced ",
+			"var",
+			"progres",
+			"animateProgress",
+			"ProgressBar",
+			"progressbar",
+			"progressBar",
+			"bar.",
+			"progressbar",
+			"\n\t",
+			"800",
+			"ExtraBold",
+			"700",
+			"Bold",
+			"500",
+			"Semi",
+			"Medium",
+			"100",
+			"200",
+			"Extra",
+			"100",
+			"Thin",
+			" format('truetype')",
+			"DroidSerif",
+			"\n\t",
+			"255",
+			"0,",
+			"progress.",
+			"progress",
+			"255",
+			"\n  ",
+			"\nbackground",
+			"progre",
+			"\n  ",
+			"IS FT10",
+			"NOT FT10",
+			"proxmarkCommand",
+			"click",
+			"500",
+			"vm.readBlock",
+			"readblock",
+			"resetReadBlock",
+			"this.readblock",
+			"resetReadBlock",
+			"REPROCESSABLE",
+			"`TAG ",
+			"device",
+			"this.",
+			"uid",
+			"taguid",
+			"S(",
+			"addReport",
+			"console.log",
+			"Using UID",
+			"vm.readblock",
+			"let uid = data.toString().split('UID=')[1].split(' ')[0];",
+			"\t\t\tlet uid = data.toString().split('UID=')[1].split(' ')[0];\n",
+			"type",
+			"addReport",
+			"devTools",
+			"proxmarkTune",
+			"proxmarkInquire",
+			"tagBlockTotal",
+			"resetReadBlock",
+			"proxmarkInquire",
+			"\"",
+			"readblock",
+			"resetReadBlock",
+			"proxmarkInquire",
+			"scanInProgress",
+			"readblock",
+			"maxreadblock",
+			"COM",
+			"found",
+			"readBlock(",
+			"tagBlockTotal",
+			"readblock",
+			"vm.readBlock",
+			"readblock",
+			"this.scanInProgress",
+			"spawn",
+			"readBlock",
+			"vm.readBlock",
+			"readBlock",
+			"Using",
+			"hexArray",
+			"maxreadblock",
+			"readblock",
+			"\"",
+			"proxmarkInquire",
+			"proxmarkCommand",
+			"command",
+			"proxmarkCommand",
+			"proxmarkInquire",
+			"`",
+			"resetReadBlock",
+			"readblock",
+			"scanInProgress",
+			"\t\t\tthis.scanInProgress = true;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GRAN Male",
+			"},\n  {",
+			"}",
+			"elapsedtime",
+			"\"year\"",
+			"elpasedtime",
+			"agebracket",
+			"lastname",
+			"firstname",
+			"\"route\"",
+			"\"bib\"",
+			"Elpased",
+			"Bracket\"",
+			"Name\":",
+			"\"BIB\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 98.0
+	},
+	"output.git-custom":
+	{
+		"height": 310.0
+	},
+	"output.git-push":
+	{
+		"height": 275.0
+	},
+	"output.git-tag":
+	{
+		"height": 122.0
+	},
+	"output.sftp":
+	{
+		"height": 226.0
+	},
+	"pinned_build_system": "",
+	"project": "ccp electron boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/APPS/Sublime Text/clayperez.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
